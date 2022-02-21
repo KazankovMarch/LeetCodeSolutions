@@ -1,6 +1,3 @@
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
 
 fun detectCycle(head: ListNode?): ListNode? {
     val visitedNodes = hashSetOf<ListNode>()
