@@ -21,4 +21,3 @@ fun rotate(matrix: Array<IntArray>) {
         }
     }
 }
-)
